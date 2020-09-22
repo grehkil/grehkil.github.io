@@ -10,4 +10,8 @@ Les informations sur les capacités éoliennes installées en France au 31/12/20
 
 ### Analyse
 
+![production_eolienne_france_2019](images/production_eolienne_france_2019.png)
+
+![facteur_de_charge_eolien_france_2019](images/facteur_de_charge_eolien_france_2019.png)
+
 ![monotone_facteur_charge_eolien_france_2019](images/monotone_facteur_charge_eolien_france_2019.png)
