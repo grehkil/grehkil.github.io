@@ -16,6 +16,16 @@ Dans le rapport complet (Full Report) de 2014 figure, en annexe III, le tableau 
 
 ![GIEC_2014_Emissions_gCO2eq_par_kWh](images/GIEC_2014_Emissions_gCO2eq_par_kWh.PNG)
 
+La dernière colonne du tableau donne les valeurs d'émissions minimales, médianes et maximales relevées dans les publications scientifiques, sur l'ensemble du cycle de vie des différentes fillières de production. Ainsi, les valeurs médianes pour les différentes filières sont les suivantes :
+
+Filière                                | Emissions sur le cycle de vie (en gCO2eq/kWh)
+-------------------------------------- | ---------------------------------------------
+Nucléaire                              | 12
+Solaire (sur toiture)                  | 41
+Solaire (centrale raccordée au réseau) | 48
+Eolien terrestre                       | 11
+Eolien en mer                          | 12
+
 ### Valeurs pour la France de l'ADEME
 
 ![ADEME_emissions_CO2_solaire_eolien_nucleaire](images/ADEME_emissions_CO2_solaire_eolien_nucleaire.png)
