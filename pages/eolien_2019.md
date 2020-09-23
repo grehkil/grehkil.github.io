@@ -14,7 +14,7 @@ En termes d'énergie, le parc éolien a fourni environ 32,7 TWh, soit environ 6,
 
 ### Données utilisées
 
-Les données de production éolienne utilisées sont issues du jeu de données "Production réalisée agrégée par filière" mis à disposition par Rte ([lien](https://www.services-rte.com/fr/visualisez-les-donnees-publiees-par-rte/production-realisee-agregee-par-filiere.html)), pour la période du 01/01/2019 au 31/12/2019. Ces données de puissance moyenne sont au pas horaire. Ces données de production éolienne comportent 7 valeurs manquantes sur 8760 valeurs au total (365 jours * 24 heures), soit 0,08 % de valeurs manquantes.
+Les données de production éolienne utilisées sont issues du jeu de données "Production réalisée agrégée par filière" mis à disposition par Rte ([lien](https://www.services-rte.com/fr/visualisez-les-donnees-publiees-par-rte/production-realisee-agregee-par-filiere.html)), pour la période du 01/01/2019 au 31/12/2019. Ces données de puissance moyenne sont au pas horaire. Ces données de production éolienne comportent 7 valeurs manquantes sur 8760 valeurs au total (365 jours * 24 heures), soit 0,08 % de valeurs manquantes. Ces valeurs manquantes n'ont pas fait l'objet d'une correction particulière (type interpolation ou autre) et n'ont simplement pas été prises en compte.
 
 Les informations sur les capacités éoliennes installées en France au 31/12/2018 (15 117 MW) et au 31/12/2019 (16 617 MW) sont issues des "Tableaux de bord : éolien" du SDES (Service de la donnée et des études statistiques) ([lien](https://www.statistiques.developpement-durable.gouv.fr/tableau-de-bord-eolien-deuxieme-trimestre-2020?rubrique=21&dossier=172)).
 
