@@ -1,5 +1,10 @@
 ## Combien le solaire, l'éolien et le nucléaire émettent-ils de CO2 pour la production d'électricité ?
 
+### TSommaire  
+[Valeurs générales compilées par le GIEC](#general)  
+[Valeurs pour la France de l'ADEME](#en_france)
+
+<a name="general"/>
 ### Valeurs générales compilées par le GIEC
 
 Le GIEC (Groupe d’experts intergouvernemental sur l’évolution du climat), ou IPCC en anglais (Intergovernmental Panel on Climate Change), est une comission scientifique de l'ONU fondée en 1988.
@@ -30,6 +35,7 @@ Globalement, le nucléaire et l'eolien sont au même niveau en matière d'émiss
 
 Il faut remarquer que ces valeurs correspondent uniquement à la production d'électricité : si le nucléaire est pilotable, le solaire et l'éolien peuvent nécessiter des moyens de stockage additionnels afin de disposer de l'énergie produite quand celle-ci est utile. Le coût en CO2 de ces moyens de stockage sur leur cycle de vie n'est pas pris en compte dans ces valeurs.
 
+<a name="en_france"/>
 ### Valeurs pour la France de l'ADEME
 
 ![ADEME_emissions_CO2_solaire_eolien_nucleaire](images/ADEME_emissions_CO2_solaire_eolien_nucleaire.png)
