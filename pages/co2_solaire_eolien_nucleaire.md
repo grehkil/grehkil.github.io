@@ -19,7 +19,7 @@ Dans le rapport complet (Full Report) de 2014 figure, en annexe III, le tableau 
 La dernière colonne du tableau donne les valeurs d'émissions minimales, médianes et maximales relevées dans les publications scientifiques, sur l'ensemble du cycle de vie des différentes fillières de production. Ainsi, les valeurs médianes pour les différentes filières sont les suivantes :
 
 Filière                                | Emissions sur le cycle de vie (en gCO2eq/kWh)
--------------------------------------- | ---------------------------------------------
+-------------------------------------- | :-------------------------------------------:
 Nucléaire                              | 12
 Solaire (sur toiture)                  | 41
 Solaire (centrale raccordée au réseau) | 48
