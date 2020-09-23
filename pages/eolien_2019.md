@@ -10,7 +10,7 @@ Les informations sur les capacités éoliennes installées en France au 31/12/20
 
 ### Analyse
 
-La chronique de production d'origine éolienne réalisée en France en 2019 présente l'allure suivante (la droite en rouge représentant la capacité installée est obtenue par régression linéaire entre les valeurs à fin 2018 et à fin 2019):
+La chronique de production d'origine éolienne réalisée en France en 2019 présente l'allure suivante (la droite en rouge représentant la capacité installée est obtenue par régression linéaire entre les valeurs à fin 2018 et à fin 2019) :
 
 ![production_eolienne_france_2019](images/production_eolienne_france_2019.png)
 
