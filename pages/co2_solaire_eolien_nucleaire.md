@@ -26,6 +26,8 @@ Solaire (centrale raccordée au réseau) | 48
 Eolien terrestre                       | 11
 Eolien en mer                          | 12
 
+Globalement, le nucléaire et l'eolien sont au même niveau en matière d'émissions, et le photovoltaique produit 4 fois plus de CO2 sur son cycle de vie à kWh produit équivalent.
+
 Il faut remarquer que ces valeurs correspondent uniquement à la production d'électricité : si le nucléaire est pilotable, le solaire et l'éolien peuvent nécessiter des moyens de stockage additionnels afin de disposer de l'énergie produite quand celle-ci est utile. Le coût en CO2 de ces moyens de stockage sur leur cycle de vie n'est pas pris en compte dans ces valeurs.
 
 ### Valeurs pour la France de l'ADEME
