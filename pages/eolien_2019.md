@@ -2,9 +2,17 @@
 
 L'analyse porte sur la puissance délivrée par le parc éolien français et son facteur de charge observé sur l'année 2019.
 
-### Données
+### Synthèse
 
-Les données de production éolienne utilisées sont issues du jeu de données "Production réalisée agrégée par filière" mis à disposition par Rte ([lien](https://www.services-rte.com/fr/visualisez-les-donnees-publiees-par-rte/production-realisee-agregee-par-filiere.html)), pour la période du 01/01/2019 au 31/12/2019. Ces données de puissance moyenne sont au pas horaire.
+La capacité installée du parc éolien est passé de 15 117 MW fin 2018 à 16 617 MW fin 2019.
+
+Le parc éolien a produit une puissance moyenne de 3 735 MW sur l'année, soit environ 23,5 % de la puissance installée. La puissance délivrée a ainsi été supérieure à 50 % de la capacité installée pendant 10 % de l'année. Elle a également été supérieure à un quart de la puissance installée pendant un tiers de l'année.
+
+La puissance minimale injectée par les éoliennes sur une heure donnée a été de 521 MW, soit environ 3,5 % de la capacité du parc installé.
+
+### Données utilisées
+
+Les données de production éolienne utilisées sont issues du jeu de données "Production réalisée agrégée par filière" mis à disposition par Rte ([lien](https://www.services-rte.com/fr/visualisez-les-donnees-publiees-par-rte/production-realisee-agregee-par-filiere.html)), pour la période du 01/01/2019 au 31/12/2019. Ces données de puissance moyenne sont au pas horaire. Ces données de production éolienne comportent 7 valeurs manquantes sur 8760 valeurs au total (365 jours * 24 heures), soit 0,08 % de valeurs manquantes.
 
 Les informations sur les capacités éoliennes installées en France au 31/12/2018 (15 117 MW) et au 31/12/2019 (16 617 MW) sont issues des "Tableaux de bord : éolien" du SDES (Service de la donnée et des études statistiques) ([lien](https://www.statistiques.developpement-durable.gouv.fr/tableau-de-bord-eolien-deuxieme-trimestre-2020?rubrique=21&dossier=172)).
 
