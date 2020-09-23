@@ -6,7 +6,7 @@ L'analyse porte sur la puissance délivrée par le parc éolien français et son
 
 La capacité installée du parc éolien est passé de 15 117 MW fin 2018 à 16 617 MW fin 2019.
 
-Le parc éolien a produit une puissance moyenne de 3 735 MW sur l'année, soit environ 23,5 % de la puissance installée. La puissance délivrée a ainsi été supérieure à 50 % de la capacité installée pendant 10 % de l'année. Elle a également été supérieure à un quart de la puissance installée pendant un tiers de l'année.
+Le parc éolien a fournit une puissance moyenne de 3 735 MW sur l'année, soit environ 23,5 % de la puissance installée. La puissance délivrée a ainsi été supérieure à 50 % de la capacité installée pendant 10 % de l'année. Elle a également été supérieure à un quart de la puissance installée pendant un tiers de l'année.
 
 La puissance minimale injectée par le parc éolien sur une heure donnée a été de 521 MW, soit environ 3,5 % de la capacité installée. La puissance maximale injectée a été de 12 742 MW, soit 76,7 % de la capacité installée.
 
