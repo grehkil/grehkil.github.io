@@ -1,6 +1,6 @@
 ## Quelle puissance le parc éolien français a-t-il délivré en 2019 ?
 
-Les chiffres généralement mis en avant au sujet de la production d'électricité d'origine éolienne concernent les capacité installées et les volumes d'énergie injectés annuellement sur le réseau. Cette analyse s'intéresse à la puissance réellement délivrée sur l'année 2019 par le parc éolien français, et le facteur de charge associé.
+Les chiffres généralement mis en avant au sujet de la production d'électricité d'origine éolienne concernent les **capacité installées** et les volumes d'**énergie** injectés annuellement sur le réseau. Cette analyse s'intéresse à la **puissance** délivrée sur l'année 2019 par le parc éolien français, et le facteur de charge associé.
 
 ### Synthèse
 
