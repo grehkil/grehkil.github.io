@@ -8,7 +8,7 @@ La capacité installée du parc éolien est passée de 15 117 MW fin 2018 à 16 
 
 Le parc éolien a fournit une puissance moyenne de 3 735 MW sur l'année, soit environ 23,5 % de la puissance installée. La puissance délivrée a ainsi été supérieure à 50 % de la capacité installée pendant 10 % de l'année. Elle a également été supérieure à un quart de la puissance installée pendant un tiers de l'année.
 
-La puissance minimale injectée par le parc éolien sur une heure donnée a été de 521 MW, soit environ 3,5 % de la capacité installée. La puissance maximale injectée a été de 12 742 MW, soit 76,7 % de la capacité installée.
+La puissance minimale injectée par le parc éolien sur une heure donnée a été de 521 MW, soit environ 3,5 % de la capacité installée. La puissance maximale injectée a été de 12 742 MW, soit environ 76,7 % de la capacité installée.
 
 En termes d'énergie, le parc éolien a fourni environ 32,7 TWh, soit environ 6,3 % de la consommation totale en 2019.
 
