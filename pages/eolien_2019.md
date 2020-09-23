@@ -10,20 +10,20 @@ Les informations sur les capacités éoliennes installées en France au 31/12/20
 
 ### Analyse
 
-La chronique de production d'origine éolienne moyenne réalisée en France en 2019 au pas horaire présente l'allure suivante (la droite en rouge est obtenue par régression linéaire entre les valeurs de capacités installées à fin 2018 et à fin 2019):
+La chronique de production d'origine éolienne réalisée en France en 2019 présente l'allure suivante (la droite en rouge, représentant la capacité installée, est obtenue par régression linéaire entre les valeurs à fin 2018 et à fin 2019):
 
 ![production_eolienne_france_2019](images/production_eolienne_france_2019.png)
 
-La puissance moyenne injectée sur l'année a été de 3 735 MW (pour une puissance moyenne installée sur l'année de 15 867 MW, moyenne entre les valeurs à fin 2018 et à fin 2019).
+La puissance moyenne injectée sur l'année a été de 3 735 MW, pour une puissance installée d'environ 15 867 MW (moyenne entre les valeurs à fin 2018 et à fin 2019).
 
-En divisant la puissance moyenne réalisée à chaque pas horaire par la valeur de la puissance installée à l'horodate correspondante, on obtient l'évolution du facteur de charge sur l'année :
+En divisant la puissance réalisée à chaque pas horaire par la valeur de la puissance installée correspondante, on obtient l'évolution du facteur de charge horaire sur l'année :
 
 ![facteur_de_charge_eolien_france_2019](images/facteur_de_charge_eolien_france_2019.png)
 
-Le facteur de charge moyen sur l'année a été de 23,5%.
+Le facteur de charge horaire moyen sur l'année a été de 23,5%.
 
-En ordonnant les 8 760 (365*24) valeurs de facteur de charge horaire par ordre décroissant, on obtient la monotone du facteur de charge sur l'année 2019 :
+En ordonnant les 8 760 (365 * 24) valeurs de facteur de charge horaire par ordre décroissant, on obtient la monotone du facteur de charge sur l'année 2019 :
 
 ![monotone_facteur_charge_eolien_france_2019](images/monotone_facteur_charge_eolien_france_2019.png)
 
-Ce graphique permet simplement de voir la proportion du temps sur l'année où le facteur de charge a été supérieur à une valeur donnée. Ainsi, partant de l'axe vertical, on peut lire que la puissance injectée a été supérieure à la moitié de la puissance installée pendant 10% de l'année (intersection sur la courbe de la valeur 50% sur l'axe vertical avec la valeur 10% sur l'axe horizontal). De façon analogue, la puissance produite a été supérieure au quart de la puissance installée pendant un tiers de l'année.
+Ce graphique permet de déterminer la proportion du temps de l'année 2019 où le facteur de charge a été supérieur à une valeur donnée. Ainsi, partant de l'axe vertical, on peut lire que la puissance injectée a été supérieure à la moitié de la puissance installée pendant 10% de l'année (intersection sur la courbe de la valeur 50% sur l'axe vertical avec la valeur 10% sur l'axe horizontal). De façon analogue, la puissance produite a été supérieure au quart de la puissance installée pendant un tiers de l'année.
