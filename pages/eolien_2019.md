@@ -10,6 +10,8 @@ Le parc éolien a fournit une puissance moyenne de 3 735 MW sur l'année, soit e
 
 La puissance minimale injectée par le parc éolien sur une heure donnée a été de 521 MW, soit environ 3,5 % de la capacité installée. La puissance maximale injectée a été de 12 742 MW, soit 76,7 % de la capacité installée.
 
+En termes d'énergie, le parc éolien a fourni environ 32,7 TWh, soit environ 6,3 % de la consommation totale en 2019.
+
 ### Données utilisées
 
 Les données de production éolienne utilisées sont issues du jeu de données "Production réalisée agrégée par filière" mis à disposition par Rte ([lien](https://www.services-rte.com/fr/visualisez-les-donnees-publiees-par-rte/production-realisee-agregee-par-filiere.html)), pour la période du 01/01/2019 au 31/12/2019. Ces données de puissance moyenne sont au pas horaire. Ces données de production éolienne comportent 7 valeurs manquantes sur 8760 valeurs au total (365 jours * 24 heures), soit 0,08 % de valeurs manquantes.
