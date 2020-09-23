@@ -26,6 +26,8 @@ Solaire (centrale raccordée au réseau) | 48
 Eolien terrestre                       | 11
 Eolien en mer                          | 12
 
+Il faut remarquer que ces valeurs correspondent uniquement à la production d'électricité : si le nucléaire est pilotable, le solaire et l'éolien peuvent nécessiter des moyens de stockage additionnels afin de disposer de l'énergie produite quand celle-ci est utile. Le coût en CO2 de ces moyens de stockage sur leur cycle de vie n'est pas pris en compte dans ces valeurs.
+
 ### Valeurs pour la France de l'ADEME
 
 ![ADEME_emissions_CO2_solaire_eolien_nucleaire](images/ADEME_emissions_CO2_solaire_eolien_nucleaire.png)
