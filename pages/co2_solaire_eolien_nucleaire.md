@@ -1,10 +1,8 @@
 ## Combien le solaire, l'éolien et le nucléaire émettent-ils de CO2 pour la production d'électricité ?
 
 ### Sommaire  
-[Valeurs générales compilées par le GIEC](#general)  
-[Valeurs pour la France de l'ADEME](#en_france)
-
-<a name="general"/>
+[Valeurs générales compilées par le GIEC](#valeurs-générales-compilées-par-le-giec)  
+[Valeurs pour la France de l'ADEME](#valeurs-pour-la-france-de-lademe)
 
 ### Valeurs générales compilées par le GIEC
 
@@ -35,8 +33,6 @@ Eolien en mer                          | 12
 Globalement, le nucléaire et l'eolien sont au même niveau en matière d'émissions, et le photovoltaique produit 4 fois plus de CO2 sur son cycle de vie à kWh produit équivalent.
 
 Il faut remarquer que ces valeurs correspondent uniquement à la production d'électricité : si le nucléaire est pilotable, le solaire et l'éolien peuvent nécessiter des moyens de stockage additionnels afin de disposer de l'énergie produite quand celle-ci est utile. Le coût en CO2 de ces moyens de stockage sur leur cycle de vie n'est pas pris en compte dans ces valeurs.
-
-<a name="en_france"/>
 
 ### Valeurs pour la France de l'ADEME
 
