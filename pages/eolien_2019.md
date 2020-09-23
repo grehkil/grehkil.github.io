@@ -20,7 +20,7 @@ En divisant la puissance réalisée à chaque pas horaire par la valeur de la pu
 
 ![facteur_de_charge_eolien_france_2019](images/facteur_de_charge_eolien_france_2019.png)
 
-Le facteur de charge horaire moyen sur l'année a été de 23,5%.
+Le facteur de charge horaire moyen sur l'année a été de 23,5 %.
 
 En ordonnant les 8 760 (365 * 24) valeurs de facteur de charge horaire par ordre décroissant, on obtient la monotone du facteur de charge sur l'année 2019 :
 
