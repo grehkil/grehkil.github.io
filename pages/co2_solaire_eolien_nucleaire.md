@@ -10,6 +10,7 @@ Le GIEC (Groupe d’experts intergouvernemental sur l’évolution du climat), o
 >
 > *Source : [Site de l'IPCC](https://www.ipcc.ch/languages-2/francais/)*
 
+L'une des principales production du GIEC sont les Rapports d'Evaluation (Assesement Report en anglais) sur le changement cimatique. Le dernier en date "Changements climatiques 2014" a été publié en 2014, et le prochain est prévu pour 2022.
 
 ![GIEC_2014_Emissions_gCO2eq_par_kWh](images/GIEC_2014_Emissions_gCO2eq_par_kWh.PNG)
 
