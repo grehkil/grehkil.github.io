@@ -2,7 +2,7 @@
 
 ### Valeurs générales compilées par le GIEC
 
-Le GIEC (Groupe d’experts intergouvernemental sur l’évolution du climat), ou IPCC en anglais (Intergovernmental Panel on Climate Change) est une comission scientifique de l'ONU fondée en 1988.
+Le GIEC (Groupe d’experts intergouvernemental sur l’évolution du climat), ou IPCC en anglais (Intergovernmental Panel on Climate Change), est une comission scientifique de l'ONU fondée en 1988.
 
 > « *[Il] est le principal organe international chargé d’évaluer le changement climatique. Il a été créé par le Programme des Nations Unies pour l’environnement (PNUE) et par l’Organisation météorologique mondiale (OMM) pour fournir au monde une vision scientifique claire de l’état actuel des connaissances en matière de changements climatiques et de leur incidence potentielle sur l’environnement et la sphère socio-économique. La même année, l’Assemblée générale des Nations Unies approuvait cette initiative de l’OMM et du PNUE.*
 > 
@@ -10,7 +10,7 @@ Le GIEC (Groupe d’experts intergouvernemental sur l’évolution du climat), o
 >
 > *Source : [Site de l'IPCC](https://www.ipcc.ch/languages-2/francais/)*
 
-L'une des principales production du GIEC est le Rapport d'Evaluation (Assesement Report en anglais) sur le changement cimatique. Le dernier en date "Changements climatiques 2014" a été publié en 2014, et le prochain est prévu pour 2022.
+L'une des principales production du GIEC est le Rapport d'Evaluation (Assesement Report en anglais) sur le changement cimatique. Le dernier en date "Changements climatiques 2014 - Attébuation du changement climatique" a été publié en 2014 (1454 pages, [lien](https://www.ipcc.ch/report/ar5/wg3/)), et le prochain est prévu pour 2022.
 
 ![GIEC_2014_Emissions_gCO2eq_par_kWh](images/GIEC_2014_Emissions_gCO2eq_par_kWh.PNG)
 
