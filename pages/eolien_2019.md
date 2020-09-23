@@ -1,6 +1,6 @@
 ## Quelle puissance le parc éolien français a-t-il délivré en 2019 ?
 
-L'analyse porte sur la puissance délivrée par le parc éolien français et son facteur de charge observé sur l'année 2019.
+Les chiffres généralement mis en avant au sujet de la production d'électricité d'origine éolienne concernent les capacité installées et les volumes d'énergie injectés annuellement sur le réseau. Cette analyse s'intéresse à la puissance réellement délivrée sur l'année 2019 par le parc éolien français, et le facteur de charge associé.
 
 ### Synthèse
 
@@ -24,7 +24,7 @@ La chronique de production d'origine éolienne réalisée en France en 2019 pré
 
 ![production_eolienne_france_2019](images/production_eolienne_france_2019.png)
 
-La puissance moyenne injectée sur l'année a été de 3 735 MW, pour une puissance installée d'environ 15 867 MW (moyenne entre les valeurs à fin 2018 et à fin 2019).
+La puissance moyenne injectée sur l'année a été de 3 735 MW, pour une puissance installée d'environ 15 867 MW (moyenne entre les valeurs à fin 2018 et à fin 2019). La puissance minimale injectée sur une heure donnée a été de 521 MW, soit environ 3,5 % de la capacité installée. La puissance maximale injectée sur une heure donnée a été de 12 742 MW, soit environ 76,7 % de la capacité installée.
 
 En divisant la puissance réalisée à chaque pas horaire par la valeur de la puissance installée correspondante, on obtient l'évolution du facteur de charge horaire sur l'année :
 
