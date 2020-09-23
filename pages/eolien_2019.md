@@ -1,6 +1,6 @@
 ## Quelle puissance le parc éolien français a-t-il délivré en 2019 ?
 
-L'analyse porte sur la puissance délivrée par le parc éolien français sur l'année 2019.
+L'analyse porte sur la puissance délivrée par le parc éolien français et son facteur de charge observé sur l'année 2019.
 
 ### Données
 
