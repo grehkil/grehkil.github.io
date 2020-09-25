@@ -1,10 +1,10 @@
 ## Quelle quantité de CO2 le photovoltaïque, l'éolien et le nucléaire émettent-ils ?
 
-Cette page s'intéresse à la question des émissions de CO2 par quantité d'énergie électrique produite sur l'ensemble du cycle de vie, pour les filières photovoltaïque, éolienne et nucléaire.
+Cette page s'intéresse aux émissions de CO2 par quantité d'énergie électrique produite sur l'ensemble du cycle de vie, pour les filières photovoltaïque, éolienne et nucléaire.
 
 ### Sommaire  
 [Valeurs générales compilées par le GIEC](#valeurs-générales-compilées-par-le-giec)  
-[Valeurs pour la France de l'ADEME](#valeurs-pour-la-france-de-lademe)
+[Valeurs pour la France fournies par l'ADEME](#valeurs-pour-la-france-de-lademe)
 
 ### Valeurs générales compilées par le GIEC
 
