@@ -4,4 +4,4 @@
 
 ## Références
 
-[Quelle quantité de CO2 le photovoltaïque, l'éolien et le nucléaire émettent-ils ? (pour la production d'électricité)](pages/co2_solaire_eolien_nucleaire.md)
+[Quelle quantité de CO2 le photovoltaïque, l'éolien et le nucléaire émettent-ils ?](pages/co2_solaire_eolien_nucleaire.md)
