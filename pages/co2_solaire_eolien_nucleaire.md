@@ -1,6 +1,6 @@
 ## Quelle quantité de CO2 le photovoltaïque, l'éolien et le nucléaire émettent-ils ?
 
-Cette page s'intéresse aux émissions de CO2 par quantité d'énergie électrique produite sur l'ensemble du cycle de vie, pour les filières photovoltaïque, éolienne et nucléaire.
+Cette page s'intéresse aux émissions de CO2 par quantité d'énergie électrique produite sur l'ensemble du cycle de vie, pour les filières photovoltaïques, éoliennes et nucléaires.
 
 ### Synthèse
 
@@ -36,15 +36,15 @@ Photovoltaïque (centrale raccordée au réseau) | 48
 Eolien terrestre                              | 11
 Eolien en mer                                 | 12
 
-Globalement, le nucléaire et l'eolien sont au même niveau en matière d'émissions, et le photovoltaïque produit 4 fois plus de CO2 sur son cycle de vie à kWh produit équivalent.
+Globalement, le nucléaire et l'eolien sont au même niveau en matière d'émissions, et le photovoltaïque produit 4 fois plus de CO2 sur son cycle de vie à kWh produit équivalent. Ces valeurs restent très faibles comparées à d'autres sources d'énergies (820 g pour le charbon, par exemple).
 
 Il faut remarquer que ces valeurs correspondent uniquement à la **production** d'électricité : si le nucléaire est pilotable, le solaire et l'éolien peuvent nécessiter des moyens de **stockage** additionnels afin de disposer de l'énergie produite quand celle-ci est utile. Le coût en CO2 de ces moyens de stockage sur leur cycle de vie n'est pas pris en compte dans ces valeurs.
 
 ### Valeurs fournies par l'ADEME
 
-A l'occasion du débat public organisé dans le cadre de la Programmation Pluriannuelle de l'Energie 2020 (voir Décret n° 2020-456 du 21 avril 2020 relatif à la programmation pluriannuelle de l'énergie), qui s'est tenu du 18 mars 2018 au 30 juin 2018, la question des émissions (et déchets) des filières solaire, éolien et nucléaire a été posée.
+A l'occasion du débat public organisé dans le cadre de la Programmation Pluriannuelle de l'Energie 2020 (voir Décret n° 2020-456 du 21 avril 2020 relatif à la programmation pluriannuelle de l'énergie), qui s'est tenu du 18 mars 2018 au 30 juin 2018, la question des émissions (et déchets) des filières photovoltaïques, éoliennes et nucléaires a été posée par un participant.
 
-La réponse fournie s'appuie sur les chiffres de la base de donnée IMPACTS de l'ADEME (L'Agence de la transition écologique, anciennement Agence De l'Environnement et de la Maîtrise de l'Energie qui lui a donné son acronyme). L’ADEME est un établissement public sous la tutelle du ministère de la Transition écologique et solidaire et du ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation.
+La réponse qui lui a été apportée s'appuie sur les chiffres de la base de donnée IMPACTS de l'ADEME (L'Agence de la transition écologique, anciennement Agence De l'Environnement et de la Maîtrise de l'Energie qui lui a donné son acronyme). L’ADEME est un établissement public sous la tutelle du ministère de la Transition écologique et solidaire et du ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation.
 
 > « *La Base IMPACTS ® est la base de données génériques d'inventaire officielle pour le programme gouvernemental français d'affichage environnemental des produits de grande consommation. Elle est complémentaire aux référentiels sectoriels élaborés dans le cadre de la "plateforme ADEME-AFNOR" (http://affichage-environnemental.afnor.org/).*
 >
