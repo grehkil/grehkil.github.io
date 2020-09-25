@@ -2,6 +2,10 @@
 
 Cette page s'intéresse aux émissions de CO2 par quantité d'énergie électrique produite sur l'ensemble du cycle de vie, pour les filières photovoltaïque, éolienne et nucléaire.
 
+### Synthèse
+
+Qu'il s'agisse des données globales du GIEC, ou de l'ADEME pour la France, il ressort que les émissions de CO2 par kWh produit sur l'ensemble du cycle de vie sont équivalentes pour l'éolien et le nucléaire (de l'ordre de la douzaine de grammes), et environ 4 à 5 fois plus importantes pour le photovoltaïque. Pour l'éolien et le photovoltaïque, ces chiffres ne tiennent compte que de la production et pas des moyens de stockages additionnels généralement nécessaires pour contrebalancer l'intermittence de ces sources. Globalement, ces valeurs restent très faibles comparées à d'autres sources d'énergies (820g pour le charbon, par exemple).
+
 ### Sommaire  
 [Valeurs générales compilées par le GIEC](#valeurs-générales-compilées-par-le-giec)  
 [Valeurs pour la France fournies par l'ADEME](#valeurs-pour-la-france-de-lademe)
@@ -61,4 +65,4 @@ Eolien                       | 15
 Photovoltaïque (sur toiture) | 72
 Photovoltaïque (au sol)      | 78
 
-Les ordres de grandeur de ces chiffres sont globalement analogues à ceux du GIEC, mais les valeurs d'émission pour le photovoltaïque sont un peu supérieures. Et comme pour les données du GIEC, il faut remarquer que ces valeurs correspondent uniquement à la **production** d'électricité : si le nucléaire est pilotable, le solaire et l'éolien peuvent nécessiter des moyens de **stockage** additionnels afin de disposer de l'énergie produite quand celle-ci est utile. Le coût en CO2 de ces moyens de stockage sur leur cycle de vie n'est pas pris en compte dans ces valeurs.
+Les ordres de grandeur de ces chiffres sont globalement analogues à ceux du GIEC, mais les valeurs d'émission pour le photovoltaïque sont légèrement supérieures. Et comme pour les données du GIEC, il faut remarquer que ces valeurs correspondent uniquement à la **production** d'électricité : si le nucléaire est pilotable, le solaire et l'éolien peuvent nécessiter des moyens de **stockage** additionnels afin de disposer de l'énergie produite quand celle-ci est utile. Le coût en CO2 de ces moyens de stockage sur leur cycle de vie n'est pas pris en compte dans ces valeurs.
