@@ -36,7 +36,7 @@ Il faut remarquer que ces valeurs correspondent uniquement à la **production** 
 
 ### Valeurs pour la France de l'ADEME
 
-A l'occasion du débat public dans le cadre de la Programmation Pluriannuelle de l'Energie 2020 (voir Décret n° 2020-456 du 21 avril 2020 relatif à la programmation pluriannuelle de l'énergie), qui s'est tenu du 18 mars 2018 au 30 juin 2018, la question des émissions (et déchets) des filières solaire, éolien et nucléaire a été posée.
+A l'occasion du débat public organisé dans le cadre de la Programmation Pluriannuelle de l'Energie 2020 (voir Décret n° 2020-456 du 21 avril 2020 relatif à la programmation pluriannuelle de l'énergie), qui s'est tenu du 18 mars 2018 au 30 juin 2018, la question des émissions (et déchets) des filières solaire, éolien et nucléaire a été posée.
 
 La réponse fournie s'appuie sur les chiffres de la base de donnée IMPACTS de l'ADEME.
 > La Base IMPACTS ® est la base de données génériques d'inventaire officielle pour le programme gouvernemental français d'affichage environnemental des produits de grande consommation. Elle est complémentaire aux référentiels sectoriels élaborés dans le cadre de la "plateforme ADEME-AFNOR" (http://affichage-environnemental.afnor.org/).
