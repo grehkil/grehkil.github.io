@@ -1,3 +1,5 @@
+[[Retour à l'index](../index.md)]
+
 ## Quelle puissance le parc éolien français a-t-il délivré en 2019 ?
 
 Les chiffres généralement mis en avant au sujet de la production d'électricité d'origine éolienne concernent les **capacité installées** et les volumes d'**énergie** injectés annuellement sur le réseau. Cette analyse s'intéresse à la **puissance** délivrée sur l'année 2019 par le parc éolien français, et au facteur de charge associé.
@@ -37,3 +39,5 @@ En ordonnant les 8 760 (365 * 24) valeurs de facteur de charge horaire par ordre
 ![monotone_facteur_charge_eolien_france_2019](images/monotone_facteur_charge_eolien_france_2019.png)
 
 Ce graphique permet de déterminer la proportion du temps de l'année 2019 où le facteur de charge a été supérieur à une valeur donnée. Ainsi, partant de l'axe vertical, on peut lire que la puissance injectée a été supérieure à la moitié de la puissance installée pendant 10% de l'année (intersection sur la courbe de la valeur 50% sur l'axe vertical avec la valeur 10% sur l'axe horizontal). De façon analogue, la puissance produite a été supérieure au quart de la puissance installée pendant un tiers de l'année.
+
+[[Retour à l'index](../index.md)]
