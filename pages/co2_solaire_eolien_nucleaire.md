@@ -4,13 +4,13 @@ Cette page s'intéresse aux émissions de CO2 par quantité d'énergie électriq
 
 ### Synthèse
 
-Qu'il s'agisse des données globales du GIEC, ou de l'ADEME pour la France, il ressort que les émissions de CO2 par kWh produit sur l'ensemble du cycle de vie sont équivalentes pour l'éolien et le nucléaire (de l'ordre de la douzaine de grammes), et environ 4 à 5 fois plus importantes pour le photovoltaïque. Pour l'éolien et le photovoltaïque, ces chiffres ne tiennent compte que de la partie production, mais pas des moyens de stockage additionnels généralement nécessaires pour contrebalancer l'intermittence de ces sources. Globalement, ces valeurs restent très faibles comparées à d'autres sources d'énergies (820 g pour le charbon, par exemple, selon les chiffres du GIEC).
+Qu'il s'agisse des données du GIEC ou de l'ADEME, il ressort que les émissions de CO2 par kWh produit sur l'ensemble du cycle de vie sont équivalentes pour l'éolien et le nucléaire (de l'ordre de la douzaine de grammes), et environ 4 à 5 fois plus importantes pour le photovoltaïque. Pour l'éolien et le photovoltaïque, ces chiffres ne tiennent compte que de la partie production, mais pas des moyens de stockage additionnels généralement nécessaires pour contrebalancer l'intermittence de ces sources. Globalement, ces valeurs restent très faibles comparées à d'autres sources d'énergies (820 g pour le charbon, par exemple, selon les chiffres du GIEC).
 
 ### Sommaire  
-[Valeurs générales compilées par le GIEC](#valeurs-générales-compilées-par-le-giec)  
-[Valeurs pour la France fournies par l'ADEME](#valeurs-pour-la-france-de-lademe)
+[Valeurs compilées par le GIEC](#valeurs-compilées-par-le-giec)  
+[Valeurs fournies par l'ADEME](#valeurs-fournies-par-lademe)
 
-### Valeurs générales compilées par le GIEC
+### Valeurs compilées par le GIEC
 
 Le GIEC (Groupe d’experts intergouvernemental sur l’évolution du climat), ou IPCC en anglais (Intergovernmental Panel on Climate Change), est une comission scientifique de l'ONU fondée en 1988.
 
@@ -40,7 +40,7 @@ Globalement, le nucléaire et l'eolien sont au même niveau en matière d'émiss
 
 Il faut remarquer que ces valeurs correspondent uniquement à la **production** d'électricité : si le nucléaire est pilotable, le solaire et l'éolien peuvent nécessiter des moyens de **stockage** additionnels afin de disposer de l'énergie produite quand celle-ci est utile. Le coût en CO2 de ces moyens de stockage sur leur cycle de vie n'est pas pris en compte dans ces valeurs.
 
-### Valeurs pour la France de l'ADEME
+### Valeurs fournies par l'ADEME
 
 A l'occasion du débat public organisé dans le cadre de la Programmation Pluriannuelle de l'Energie 2020 (voir Décret n° 2020-456 du 21 avril 2020 relatif à la programmation pluriannuelle de l'énergie), qui s'est tenu du 18 mars 2018 au 30 juin 2018, la question des émissions (et déchets) des filières solaire, éolien et nucléaire a été posée.
 
