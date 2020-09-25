@@ -12,7 +12,7 @@ Qu'il s'agisse des données du GIEC ou de l'ADEME, il ressort que les émissions
 
 ### Valeurs compilées par le GIEC
 
-Le GIEC (Groupe d’experts intergouvernemental sur l’évolution du climat), ou IPCC en anglais (Intergovernmental Panel on Climate Change), est une comission scientifique de l'ONU fondée en 1988.
+Le GIEC (Groupe d’experts Intergouvernemental sur l’Evolution du Climat), ou IPCC en anglais (Intergovernmental Panel on Climate Change), est une comission scientifique de l'ONU fondée en 1988.
 
 > « *[Il] est le principal organe international chargé d’évaluer le changement climatique. Il a été créé par le Programme des Nations Unies pour l’environnement (PNUE) et par l’Organisation météorologique mondiale (OMM) pour fournir au monde une vision scientifique claire de l’état actuel des connaissances en matière de changements climatiques et de leur incidence potentielle sur l’environnement et la sphère socio-économique. La même année, l’Assemblée générale des Nations Unies approuvait cette initiative de l’OMM et du PNUE.*
 > 
