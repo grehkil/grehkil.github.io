@@ -22,7 +22,7 @@ Le GIEC (Groupe d’experts Intergouvernemental sur l’Evolution du Climat), ou
 
 L'une des principales production du GIEC est le Rapport d'Evaluation (*Assesement Report*) sur le changement cimatique. Le dernier en date "Changements climatiques 2014 - Atténuation du changement climatique" a été publié en 2014 (1454 pages, [lien](https://www.ipcc.ch/report/ar5/wg3/)). Le prochain Rapport d'Evaluation est prévu pour 2022.
 
-Dans le rapport complet (Full Report) de 2014 figure, en annexe III, le tableau A.III.2 (page 1335) compilant les valeurs d'émission des différentes fillères de production exprimées en gCO2eq / kWh (en gramme équivalent CO2 par kilowatt-heure donc). Ce tableau est le suivant :
+Dans le rapport complet (Full Report) de 2014 figure, en annexe III, le tableau A.III.2 (page 1335) compilant les valeurs d'émission des différentes filières de production exprimées en gCO2eq / kWh (en gramme équivalent CO2 par kilowatt-heure donc). Ce tableau est le suivant :
 
 ![GIEC_2014_Emissions_gCO2eq_par_kWh](images/GIEC_2014_Emissions_gCO2eq_par_kWh.PNG)
 
