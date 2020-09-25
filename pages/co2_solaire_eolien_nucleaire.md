@@ -1,4 +1,4 @@
-## Combien le solaire, l'éolien et le nucléaire émettent-ils de CO2 pour la production d'électricité ?
+## Quelle quantité de CO2 le solaire, l'éolien et le nucléaire émettent-ils pour la production d'électricité ?
 
 ### Sommaire  
 [Valeurs générales compilées par le GIEC](#valeurs-générales-compilées-par-le-giec)  
