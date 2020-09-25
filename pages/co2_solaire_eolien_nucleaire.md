@@ -39,6 +39,7 @@ Il faut remarquer que ces valeurs correspondent uniquement à la **production** 
 A l'occasion du débat public organisé dans le cadre de la Programmation Pluriannuelle de l'Energie 2020 (voir Décret n° 2020-456 du 21 avril 2020 relatif à la programmation pluriannuelle de l'énergie), qui s'est tenu du 18 mars 2018 au 30 juin 2018, la question des émissions (et déchets) des filières solaire, éolien et nucléaire a été posée.
 
 La réponse fournie s'appuie sur les chiffres de la base de donnée IMPACTS de l'ADEME.
+
 > La Base IMPACTS ® est la base de données génériques d'inventaire officielle pour le programme gouvernemental français d'affichage environnemental des produits de grande consommation. Elle est complémentaire aux référentiels sectoriels élaborés dans le cadre de la "plateforme ADEME-AFNOR" (http://affichage-environnemental.afnor.org/).
 >
 > Les jeux de données d'inventaire de la Base IMPACTS ® sont directement caractérisés en indicateurs d'impact potentiel selon l'approche ACV (Analyse de Cycle de Vie), via les méthodes de caractérisation préconisées par le JRC (Joint Research Center, centre de recherche de la Commission Européenne) dans l'ILCD Handbook (http://lct.jrc.ec.europa.eu/assessment/pdf-directory/Recommendation-of-methods-for-LCIA-def.pdf)
@@ -46,7 +47,10 @@ La réponse fournie s'appuie sur les chiffres de la base de donnée IMPACTS de l
 > *Source : [Documentation base IMPACTS](https://www.bilans-ges.ademe.fr/documentation/UPLOAD_DOC_FR/index.htm?base_impact.htm)
 
 La question posée et la réponse fournie sont visible sur la capture d'écran suivante :
+
 ![ADEME_emissions_CO2_solaire_eolien_nucleaire](images/ADEME_emissions_CO2_solaire_eolien_nucleaire.png)
+
+Ainsi, les valeurs d'émission de gCO2 par kWh d'énergie produite sur la durée du cycle de vie pour ces différentes filières de production d'électricité sont :
 
 Filière                      | Emissions sur le cycle de vie (en gCO2/kWh)
 ---------------------------- | :-----------------------------------------:
