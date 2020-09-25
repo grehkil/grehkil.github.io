@@ -4,7 +4,7 @@ Cette page s'intéresse aux émissions de CO2 par quantité d'énergie électriq
 
 ### Synthèse
 
-Qu'il s'agisse des données globales du GIEC, ou de l'ADEME pour la France, il ressort que les émissions de CO2 par kWh produit sur l'ensemble du cycle de vie sont équivalentes pour l'éolien et le nucléaire (de l'ordre de la douzaine de grammes), et environ 4 à 5 fois plus importantes pour le photovoltaïque. Pour l'éolien et le photovoltaïque, ces chiffres ne tiennent compte que de la partie production, mais pas des moyens de stockage additionnels généralement nécessaires pour contrebalancer l'intermittence de ces sources. Globalement, ces valeurs restent très faibles comparées à d'autres sources d'énergies (820g pour le charbon, par exemple, selon les chiffres du GIEC).
+Qu'il s'agisse des données globales du GIEC, ou de l'ADEME pour la France, il ressort que les émissions de CO2 par kWh produit sur l'ensemble du cycle de vie sont équivalentes pour l'éolien et le nucléaire (de l'ordre de la douzaine de grammes), et environ 4 à 5 fois plus importantes pour le photovoltaïque. Pour l'éolien et le photovoltaïque, ces chiffres ne tiennent compte que de la partie production, mais pas des moyens de stockage additionnels généralement nécessaires pour contrebalancer l'intermittence de ces sources. Globalement, ces valeurs restent très faibles comparées à d'autres sources d'énergies (820 g pour le charbon, par exemple, selon les chiffres du GIEC).
 
 ### Sommaire  
 [Valeurs générales compilées par le GIEC](#valeurs-générales-compilées-par-le-giec)  
