@@ -22,15 +22,15 @@ Dans le rapport complet (Full Report) de 2014 figure, en annexe III, le tableau 
 
 La dernière colonne du tableau donne les valeurs d'émissions minimales, médianes et maximales relevées dans les publications scientifiques, sur l'ensemble du cycle de vie des différentes fillières de production. Ainsi, les valeurs médianes pour les différentes filières sont les suivantes :
 
-Filière                                | Emissions sur le cycle de vie (en gCO2eq/kWh)
--------------------------------------- | :-------------------------------------------:
-Nucléaire                              | 12
-Solaire (sur toiture)                  | 41
-Solaire (centrale raccordée au réseau) | 48
-Eolien terrestre                       | 11
-Eolien en mer                          | 12
+Filière                                       | Emissions sur le cycle de vie (en gCO2eq/kWh)
+--------------------------------------------- | :-------------------------------------------:
+Nucléaire                                     | 12
+Photovoltaïque (sur toiture)                  | 41
+Photovoltaïque (centrale raccordée au réseau) | 48
+Eolien terrestre                              | 11
+Eolien en mer                                 | 12
 
-Globalement, le nucléaire et l'eolien sont au même niveau en matière d'émissions, et le photovoltaique produit 4 fois plus de CO2 sur son cycle de vie à kWh produit équivalent.
+Globalement, le nucléaire et l'eolien sont au même niveau en matière d'émissions, et le photovoltaïque produit 4 fois plus de CO2 sur son cycle de vie à kWh produit équivalent.
 
 Il faut remarquer que ces valeurs correspondent uniquement à la **production** d'électricité : si le nucléaire est pilotable, le solaire et l'éolien peuvent nécessiter des moyens de **stockage** additionnels afin de disposer de l'énergie produite quand celle-ci est utile. Le coût en CO2 de ces moyens de stockage sur leur cycle de vie n'est pas pris en compte dans ces valeurs.
 
@@ -59,4 +59,4 @@ Eolien                       | 15
 Photovoltaïque (sur toiture) | 72
 Photovoltaïque (au sol)      | 78
 
-Ces chiffres sont globalement analogues à ceux du GIEC.
+Les ordres de grandeur de ces chiffres sont globalement analogues à ceux du GIEC, mais les valeurs d'émission pour le photovoltaïque sont un peu supérieures.
