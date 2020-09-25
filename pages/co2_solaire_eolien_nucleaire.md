@@ -46,7 +46,7 @@ La réponse fournie s'appuie sur les chiffres de la base de donnée IMPACTS de l
 >
 > *Source : [Documentation base IMPACTS](https://www.bilans-ges.ademe.fr/documentation/UPLOAD_DOC_FR/index.htm?base_impact.htm)*
 
-La question posée et la réponse fournie sont visible sur la capture d'écran suivante :
+La question posée et la réponse fournie sur le site du débat public sont visible sur la capture d'écran suivante ([lien original](https://cpdp.debatpublic.fr/cpdp-ppe/cout-carbone-dechets-enr.html)) :
 
 ![ADEME_emissions_CO2_solaire_eolien_nucleaire](images/ADEME_emissions_CO2_solaire_eolien_nucleaire.png)
 
