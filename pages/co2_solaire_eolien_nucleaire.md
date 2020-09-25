@@ -1,4 +1,4 @@
-[Sommaire](../index.md)
+[Retour à l'index](../index.md)
 
 ## Quelle quantité de CO2 le photovoltaïque, l'éolien et le nucléaire émettent-ils ?
 
@@ -68,3 +68,5 @@ Photovoltaïque (sur toiture) | 72
 Photovoltaïque (au sol)      | 78
 
 Les ordres de grandeur de ces chiffres sont globalement analogues à ceux du GIEC, mais les valeurs d'émission pour le photovoltaïque sont légèrement supérieures. Et comme pour les données du GIEC, il faut remarquer que ces valeurs correspondent uniquement à la **production** d'électricité : si le nucléaire est pilotable, le solaire et l'éolien peuvent nécessiter des moyens de **stockage** additionnels afin de disposer de l'énergie produite quand celle-ci est utile. Le coût en CO2 de ces moyens de stockage sur leur cycle de vie n'est pas pris en compte dans ces valeurs.
+
+[Retour à l'index](../index.md)
